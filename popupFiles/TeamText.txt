@@ -1,0 +1,11 @@
+CORE:
+James Anthenelli
+Chris Muller
+Daniel Teffenhart
+Alex Micharski
+
+UI:
+Simon Leong
+Angela Campos
+Gabriel Nydick
+Tomasz Tara

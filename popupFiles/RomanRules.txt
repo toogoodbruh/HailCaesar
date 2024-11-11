@@ -1,0 +1,13 @@
+The maximum number supported by this calculator is 3,999 or MMMCMXCIX.
+
+• The Roman Numerals I, X, C and M can be repeated up to 3 times in succession to form a valid number.
+
+• When a symbol is placed after a larger or equal symbol, the expression is added up to form a number.   
+Example: The number 1,236 in Roman Numerals is MCCXXXVI. It can be broken down as such: 
+M + C + C + X + X + X + V + I 
+⟶ 1000 + 100 + 100 + 10 + 10 + 10 + 5 + 1
+
+• If a symbol appears before another symbol that comes directly after it in the list of basic symbols, is seen as subtraction.
+Example: The number 2,944 in Roman Numerals is MMCMXLIV.  It can be broken down as such:
+M + M + (M - C) + (L - X) + (V - I) 
+⟶ 1000 + 1000 + (1000 - 100) + (50 - 10) + (5 - 1)

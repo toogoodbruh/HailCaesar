@@ -1,0 +1,37 @@
+Order of operations follow Parentheses, Exponents, Multiplication, Addition, Subtraction
+
+Invalid inputs will be ignored   
+Ex. more than one consecutive operator, more than one $, invalid Roman Numerals
+
+I => 1
+
+V => 5
+
+X => 10
+
+L => 50
+
+C => 100
+
+D => 500
+
+M => 1000
+
+(  => left parentheses
+
+) => right parentheses
+
+^  =>  precedence from right to left, but calculates from left to right 
+Ex. 2^4^2 is evaluated 2^16
+
+$ => prints out last output
+
+<- deletes the last character input
+
+Clear => clears all characters
+
+* => Multiplication
+
++ => Addition
+
+- => Subtraction
